@@ -1,0 +1,15 @@
+E:\Rao IT Competition\Round 4\Problem Statement 3\bin\Debug\net6.0\Problem Statement 3.exe
+E:\Rao IT Competition\Round 4\Problem Statement 3\bin\Debug\net6.0\Problem Statement 3.deps.json
+E:\Rao IT Competition\Round 4\Problem Statement 3\bin\Debug\net6.0\Problem Statement 3.runtimeconfig.json
+E:\Rao IT Competition\Round 4\Problem Statement 3\bin\Debug\net6.0\Problem Statement 3.dll
+E:\Rao IT Competition\Round 4\Problem Statement 3\bin\Debug\net6.0\Problem Statement 3.pdb
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.csproj.AssemblyReference.cache
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.AssemblyInfoInputs.cache
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.AssemblyInfo.cs
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.csproj.CoreCompileInputs.cache
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.dll
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\refint\Problem Statement 3.dll
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.pdb
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\Problem Statement 3.genruntimeconfig.cache
+E:\Rao IT Competition\Round 4\Problem Statement 3\obj\Debug\net6.0\ref\Problem Statement 3.dll
