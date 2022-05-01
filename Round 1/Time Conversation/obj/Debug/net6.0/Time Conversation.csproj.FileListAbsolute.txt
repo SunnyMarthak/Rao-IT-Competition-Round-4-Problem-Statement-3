@@ -1,0 +1,15 @@
+E:\Rao IT Competition\Round 1\Time Conversation\bin\Debug\net6.0\Time Conversation.exe
+E:\Rao IT Competition\Round 1\Time Conversation\bin\Debug\net6.0\Time Conversation.deps.json
+E:\Rao IT Competition\Round 1\Time Conversation\bin\Debug\net6.0\Time Conversation.runtimeconfig.json
+E:\Rao IT Competition\Round 1\Time Conversation\bin\Debug\net6.0\Time Conversation.dll
+E:\Rao IT Competition\Round 1\Time Conversation\bin\Debug\net6.0\Time Conversation.pdb
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.csproj.AssemblyReference.cache
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.AssemblyInfoInputs.cache
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.AssemblyInfo.cs
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.csproj.CoreCompileInputs.cache
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.dll
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\refint\Time Conversation.dll
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.pdb
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\Time Conversation.genruntimeconfig.cache
+E:\Rao IT Competition\Round 1\Time Conversation\obj\Debug\net6.0\ref\Time Conversation.dll
